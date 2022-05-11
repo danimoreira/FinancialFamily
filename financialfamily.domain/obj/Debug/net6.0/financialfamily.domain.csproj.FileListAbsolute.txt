@@ -1,0 +1,12 @@
+/home/daniel/git/financialfamily/financialfamily.domain/obj/Debug/net6.0/financialfamily.domain.csproj.AssemblyReference.cache
+/home/daniel/git/financialfamily/financialfamily.domain/obj/Debug/net6.0/financialfamily.domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/git/financialfamily/financialfamily.domain/obj/Debug/net6.0/financialfamily.domain.AssemblyInfoInputs.cache
+/home/daniel/git/financialfamily/financialfamily.domain/obj/Debug/net6.0/financialfamily.domain.AssemblyInfo.cs
+/home/daniel/git/financialfamily/financialfamily.domain/obj/Debug/net6.0/financialfamily.domain.csproj.CoreCompileInputs.cache
+/home/daniel/git/financialfamily/financialfamily.domain/bin/Debug/net6.0/financialfamily.domain.deps.json
+/home/daniel/git/financialfamily/financialfamily.domain/bin/Debug/net6.0/financialfamily.domain.dll
+/home/daniel/git/financialfamily/financialfamily.domain/bin/Debug/net6.0/financialfamily.domain.pdb
+/home/daniel/git/financialfamily/financialfamily.domain/obj/Debug/net6.0/financialfamily.domain.dll
+/home/daniel/git/financialfamily/financialfamily.domain/obj/Debug/net6.0/refint/financialfamily.domain.dll
+/home/daniel/git/financialfamily/financialfamily.domain/obj/Debug/net6.0/financialfamily.domain.pdb
+/home/daniel/git/financialfamily/financialfamily.domain/obj/Debug/net6.0/ref/financialfamily.domain.dll

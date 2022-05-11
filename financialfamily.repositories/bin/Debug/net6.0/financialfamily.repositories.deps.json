@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "financialfamily.repositories/1.0.0": {
+        "dependencies": {
+          "financialfamily.domain": "1.0.0"
+        },
+        "runtime": {
+          "financialfamily.repositories.dll": {}
+        }
+      },
+      "financialfamily.domain/1.0.0": {
+        "runtime": {
+          "financialfamily.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "financialfamily.repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "financialfamily.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

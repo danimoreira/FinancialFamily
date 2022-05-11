@@ -1,0 +1,15 @@
+/home/daniel/git/financialfamily/financialfamily.repositories/obj/Debug/net6.0/financialfamily.repositories.csproj.AssemblyReference.cache
+/home/daniel/git/financialfamily/financialfamily.repositories/obj/Debug/net6.0/financialfamily.repositories.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/git/financialfamily/financialfamily.repositories/obj/Debug/net6.0/financialfamily.repositories.AssemblyInfoInputs.cache
+/home/daniel/git/financialfamily/financialfamily.repositories/obj/Debug/net6.0/financialfamily.repositories.AssemblyInfo.cs
+/home/daniel/git/financialfamily/financialfamily.repositories/obj/Debug/net6.0/financialfamily.repositories.csproj.CoreCompileInputs.cache
+/home/daniel/git/financialfamily/financialfamily.repositories/bin/Debug/net6.0/financialfamily.repositories.deps.json
+/home/daniel/git/financialfamily/financialfamily.repositories/bin/Debug/net6.0/financialfamily.repositories.dll
+/home/daniel/git/financialfamily/financialfamily.repositories/bin/Debug/net6.0/financialfamily.repositories.pdb
+/home/daniel/git/financialfamily/financialfamily.repositories/bin/Debug/net6.0/financialfamily.domain.dll
+/home/daniel/git/financialfamily/financialfamily.repositories/bin/Debug/net6.0/financialfamily.domain.pdb
+/home/daniel/git/financialfamily/financialfamily.repositories/obj/Debug/net6.0/financialfamily.repositories.csproj.CopyComplete
+/home/daniel/git/financialfamily/financialfamily.repositories/obj/Debug/net6.0/financialfamily.repositories.dll
+/home/daniel/git/financialfamily/financialfamily.repositories/obj/Debug/net6.0/refint/financialfamily.repositories.dll
+/home/daniel/git/financialfamily/financialfamily.repositories/obj/Debug/net6.0/financialfamily.repositories.pdb
+/home/daniel/git/financialfamily/financialfamily.repositories/obj/Debug/net6.0/ref/financialfamily.repositories.dll
